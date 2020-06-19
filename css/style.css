@@ -317,6 +317,7 @@ body {
 .input {
   padding: 0.7rem;
   border-radius: 8px;
+  border: none;
   outline: none;
   flex: 1;
   font-weight: 700;
